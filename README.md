@@ -5,11 +5,11 @@ Unofficial lib for https://freegeoip.app. Thank you for the awesome api
 
 # Example usage
 ```
-  import "github.com/Z-M-Huang/go-ipapi"
+  import "github.com/Z-M-Huang/go-freegeoip"
 
-  resp, err := ipapi.Get(host)
+  resp, err := freegeoip.Get(host)
   if err != nil {
     panic(err)
   }
-  fmt.Println(resp.Query)
+  fmt.Println(resp.IP)
 ```

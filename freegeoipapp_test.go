@@ -1,4 +1,4 @@
-package freegeoipapp
+package freegeoip
 
 import (
 	"testing"
