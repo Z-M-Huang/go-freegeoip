@@ -1,3 +1,6 @@
+//Package freegeoipapp is an unofficial library for https://freegeoip.app/
+//Author: Z-M-Huang
+//Repository: https://github.com/Z-M-Huang/go-freegeoip
 package freegeoipapp
 
 import (
